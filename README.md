@@ -24,8 +24,8 @@ A feature-rich task management application built with React Native and Expo.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/my-tasks-app.git
-cd my-tasks-app
+git clone https://github.com/vkprogrammer-001/MyTasks.git
+cd MyTasks
 ```
 
 2. Install dependencies:

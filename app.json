@@ -18,9 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.anonymous.MyTasks",
-      "permissions": ["NOTIFICATIONS"],
-      "googleServicesFile": "./google-services.json"
+      "package": "com.anonymous.MyTasks"
     },
     "web": {
       "bundler": "metro",
@@ -36,14 +34,6 @@
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
-        }
-      ],
-      [
-        "expo-notifications",
-        {
-          "icon": "./assets/images/notification-icon.png",
-          "color": "#ffffff",
-          "sounds": ["./assets/notification-sound.wav"]
         }
       ]
     ],
