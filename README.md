@@ -1,4 +1,5 @@
 # My Tasks App
+### Developed by Vipin Kumar
 
 A feature-rich task management application built with React Native and Expo.
 <br>
@@ -64,8 +65,14 @@ npx expo start
 - Optimized performance with proper state management
 - Enhanced UI/UX with visual feedback
 
-### Challenges & Solutions
-- Implemented proper notification handling with TypeScript
-- Created a smooth editing experience with inline editing
-- Managed complex state updates while maintaining performance
-- Ensured proper data persistence with error handling
+## Development Journey
+
+### Key Challenges & Solutions
+1. **Notification Management**: Implemented a robust notification system using Expo Notifications while ensuring proper TypeScript typing and error handling.
+2. **State Management**: Created an efficient state management system to handle complex task updates while maintaining optimal performance.
+3. **Data Persistence**: Developed a reliable data storage system using AsyncStorage with proper error handling and data validation.
+
+### Design Decisions
+- Chose a minimalist UI approach for better user experience
+- Implemented priority-based color coding for quick task identification
+- Added inline editing for improved task management workflow
