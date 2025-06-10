@@ -1,4 +1,4 @@
-package com.anonymous.MyTasks
+package com.mytasks
 
 import android.app.Application
 import android.content.res.Configuration
