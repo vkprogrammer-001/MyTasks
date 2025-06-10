@@ -2,7 +2,7 @@
 ### Developed by Vipin Kumar
 
 A feature-rich task management application built with React Native and Expo.
-<br>
+<br><br>
 <img src="https://github.com/user-attachments/assets/1c586211-6f6e-4c03-9b44-5aacae4d32d7" height="400px" width="200px">
 <img src="https://github.com/user-attachments/assets/a02239d3-9835-4245-8ad8-3db06c26a712" height="400px" width="200px">
 
